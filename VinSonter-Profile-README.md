@@ -9,9 +9,7 @@
 I'm a Data Scientist at ChiEAC with an MS in Data Science from UMass Dartmouth. I work across data engineering, data science, and analytics, with a particular interest in satellite remote sensing and ocean science, and I'm currently looking for full-time and internship roles in those areas.
 
 ### Currently 
-1.Learning AI
-2.Satellite datas
-3.genAI
+Learning AI, Satellite datas,genAI
 
 
 ### Tech Stack
