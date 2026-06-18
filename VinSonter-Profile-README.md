@@ -32,13 +32,7 @@ I'm a Data Scientist at ChiEAC with an MS in Data Science from UMass Dartmouth. 
 
 </div>
 
-### GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VinSonter&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-
-</div>
 
 ### Connect
 
