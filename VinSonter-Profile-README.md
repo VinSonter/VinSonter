@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3D5A80&center=true&vCenter=true&width=600&lines=Data+Scientist+%40+ChiEAC;MS+Data+Science+%40+UMass+Dartmouth;Data+Science+%2B+Advanced+AI/ML+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3D5A80&center=true&vCenter=true&width=600&lines=Data+Scientist+%40+ChiEAC;MS+Data+Science+%40+UMass+Dartmouth;Data+Scientist+%2B+Advanced+AI/ML+Enthusiast" alt="Typing SVG" />
 
 </div>
 
@@ -39,4 +39,4 @@ Learning AI, Satellite datas,genAI
 
 ### Connect
 
-[LinkedIn](#) &nbsp;&middot;&nbsp; [Email](#)
+[LinkedIn](www.linkedin.com/in/vinayak-sonter-633b10228) &nbsp;&middot;&nbsp; [Email](vinayaksonter@icloud.com)
