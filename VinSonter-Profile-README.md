@@ -8,12 +8,6 @@
 
 I'm a Data Scientist at ChiEAC with an MS in Data Science from UMass Dartmouth. I work across data engineering, data science, and analytics, with a particular interest in satellite remote sensing and ocean science, and I'm currently looking for full-time and internship roles in those areas.
 
-### Currently Building
-
-- **[SAR](https://github.com/VinSonter/SAR)** — detecting and characterizing internal wave fields in Sentinel-1 SAR imagery
-- **[coral](https://github.com/VinSonter/coral)** — a machine learning pipeline studying coral reef health and ocean acidification from satellite data
-- **[DB](https://github.com/VinSonter/DB)** — comparing denormalized vs. normalized database schema performance at scale
-- **[HPSC](https://github.com/VinSonter/HPSC)** — parallel and scientific computing coursework on the Anvil supercomputer
 
 ### Tech Stack
 
