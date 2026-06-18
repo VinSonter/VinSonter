@@ -39,4 +39,4 @@ Learning AI, Satellite datas,genAI
 
 ### Connect
 
-[LinkedIn](www.linkedin.com/in/vinayak-sonter-633b10228) &nbsp;&middot;&nbsp; [Email](vinayaksonter@icloud.com)
+[LinkedIn](https://www.linkedin.com/in/your-username) &nbsp;&middot;&nbsp; [Email](vinayaksonter@icloud.com)
