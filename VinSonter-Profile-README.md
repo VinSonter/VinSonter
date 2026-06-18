@@ -1,12 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3D5A80&center=true&vCenter=true&width=600&lines=Data+Scientist+%40+ChiEAC;MS+Data+Science+%40+UMass+Dartmouth;Ocean+Science+%2B+Remote+Sensing+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3D5A80&center=true&vCenter=true&width=600&lines=Data+Scientist+%40+ChiEAC;MS+Data+Science+%40+UMass+Dartmouth;Data+Science+%2B+Advanced+ML+AI+Enthusiast" alt="Typing SVG" />
 
 </div>
 
 ### About Me
 
 I'm a Data Scientist at ChiEAC with an MS in Data Science from UMass Dartmouth. I work across data engineering, data science, and analytics, with a particular interest in satellite remote sensing and ocean science, and I'm currently looking for full-time and internship roles in those areas.
+
+### Currently 
+1.Learning AI
+2.Satellite datas
+3.genAI
 
 
 ### Tech Stack
