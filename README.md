@@ -6,7 +6,7 @@
 
 ### About Me
 
-I'm a Data Scientist at ChiEAC with an MS in Data Science from UMass Dartmouth. I work across data engineering, data science, and analytics, with a particular interest in satellite remote sensing and ocean science, and I'm currently looking for full-time and internship roles in those areas.
+Hello Myself Vinayak Sonter, I'm a Data Scientist at ChiEAC with an MS in Data Science from UMass Dartmouth. I work across data engineering, data science, and analytics, with a particular interest in satellite remote sensing and ocean science, and I'm currently looking for full-time and internship roles in those areas.
 
 ### Currently 
 Learning AI, Satellite datas,genAI
